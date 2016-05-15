@@ -1,11 +1,15 @@
 # Enter your code here. Read input from STDIN. Print output to STDOUT
-a = int(raw_input())
-b = int(raw_input())
+x = int(raw_input())
+y = int(raw_input())
 
-c = a
+# c = a
+#
+# a = b
+#
+# b = c
+# print a
+# print b
 
-a = b
-
-b = c
-print a
-print b
+x, y = y, x
+print x
+print y
