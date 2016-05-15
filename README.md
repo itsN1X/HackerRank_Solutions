@@ -6,8 +6,8 @@ Any Suggestions and corrections are invited.
 
 ## Other Resources
 
-HTML5 Boilerplate Docs: The HTML
-HTML5 Boilerplate Docs: Extend and customize
+Python Official Docs: https://docs.python.org/3/
+HackerRank Python Problem Set: https://www.hackerrank.com/domains/python/
 ## Contributing
 
 Open an issue or a pull request to suggest changes or additions.
