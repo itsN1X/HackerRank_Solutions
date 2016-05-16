@@ -3,3 +3,14 @@ a = int(raw_input())
 
 t = tuple(int(x.strip()) for x in raw_input().split())
 print hash(t)
+
+
+
+
+
+
+
+
+
+
+#Any better solutions please update here
